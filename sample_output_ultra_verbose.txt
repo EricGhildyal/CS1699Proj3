@@ -1,5 +1,3 @@
-[laboon@ekaterina ~/pitt/pitt_private/CS1699_deliverable_3]
-(20304) $ java LaboonCrypt "meow" -ultraverbose
 	Padded string: meow0004
 	Blocks:
 	meow0004
